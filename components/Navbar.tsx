@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import { ModeToggle } from './modeToggle'
+import { ModeToggle } from './ModeToggle'
 
 const Navbar = () => {
   return (
